@@ -55,6 +55,10 @@
 .deleteBtn {
     outline: none;
     border: none;
+<<<<<<< HEAD
+=======
+    background-color: #fff;
+>>>>>>> 2475c2e (sua css)
     cursor: pointer;
 }
 
